@@ -1,4 +1,4 @@
-# Binary Search Function
+# Binary Search Function........
 def binary_search(list1, key):
     # Initialize the first and last pointers for binary search
     first = 0
@@ -22,7 +22,7 @@ def binary_search(list1, key):
     # If the element is not found, return -1
     return -1
 
-# Fibonacci Search Function....
+# Fibonacci Search Function.......
 def fibonacci_search(a, target):
     n = len(a)
     fi_2 = 0
